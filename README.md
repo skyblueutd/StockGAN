@@ -1,0 +1,2 @@
+# StockGAN
+ GANPrediction
